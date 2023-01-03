@@ -1,5 +1,4 @@
-## ¡Bienvenido al repositorio creado para presentar el taller 4 de la Cantera nivel 2!
-Ejercicios de POO y modelamiento de objetos, Semana 2:
+## ¡Bienvenido al repositorio de POO y modelamiento de objetos, Semana 2:
 ** Descripción:**
 ------------
 En este repositorio se entregan 6 ejercicios de POO y modelamiento de objetos:
